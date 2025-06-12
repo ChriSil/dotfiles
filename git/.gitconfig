@@ -1,0 +1,7 @@
+[user]
+	name = Chris Siller
+	email = christopher.siller@alexanderthamm.com
+[safe]
+    directory = /workspace
+[init]
+	defaultBranch = main
